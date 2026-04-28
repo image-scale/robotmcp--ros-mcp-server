@@ -1,0 +1,2 @@
+[console_scripts]
+ros-mcp = ros_mcp.main:main
