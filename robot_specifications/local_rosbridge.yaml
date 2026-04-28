@@ -1,0 +1,9 @@
+# Local rosbridge configuration
+local_rosbridge:
+  type: rosbridge
+  host: 127.0.0.1
+  port: 9090
+  prompts:
+    - test-server-tools
+    - test-connection-tools
+  description: Local rosbridge server for testing
